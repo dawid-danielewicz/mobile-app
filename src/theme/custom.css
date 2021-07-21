@@ -1,0 +1,38 @@
+ion-toolbar {
+    --background: var(--ion-color-primary);
+    --color: var(--ion-color-primary-contrast);
+}
+
+.add-button {
+    position: absolute;
+    bottom: 12%;
+    right: 7%;
+    --border-radius: 50%;
+}
+
+.thing-state {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 5px;
+}
+
+
+.eye-icon {
+    font-size: 5rem;
+}
+
+.no-margin {
+    margin-bottom: 7px;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.color-danger {
+    color: var(--ion-color-danger);
+}
+
+.color-success { 
+    color: var(--ion-color-success)
+}
